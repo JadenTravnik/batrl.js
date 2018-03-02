@@ -1,0 +1,24 @@
+
+.actionTableValues, .actionTable {
+  height: 100%;
+  float: left;
+}
+
+.actionTable {
+  width: 25%;
+}
+
+.actionTableValues {
+  width: 100%;
+}
+
+span {
+ float: left; display: block; width: 100%; 
+}
+
+.activeAction {
+	background-color: #33FFFF;
+}
+.activeState {
+	background-color: #00FF00;
+}
